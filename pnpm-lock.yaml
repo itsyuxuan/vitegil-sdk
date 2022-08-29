@@ -10,7 +10,7 @@ specifiers:
   rollup-plugin-dts: ^4.2.2
   rollup-plugin-livereload: ^2.0.5
   rollup-plugin-serve: ^2.0.1
-  rollup-plugin-typescript2: ^0.32.1
+  rollup-plugin-typescript2: ^0.33.0
   typescript: ^4.7.4
 
 devDependencies:
@@ -23,7 +23,7 @@ devDependencies:
   rollup-plugin-dts: 4.2.2_nm5mlcuxlwr6samvke7b2fz27i
   rollup-plugin-livereload: 2.0.5
   rollup-plugin-serve: 2.0.1
-  rollup-plugin-typescript2: 0.32.1_nm5mlcuxlwr6samvke7b2fz27i
+  rollup-plugin-typescript2: 0.33.0_nm5mlcuxlwr6samvke7b2fz27i
   typescript: 4.7.4
 
 packages:
@@ -2184,8 +2184,8 @@ packages:
       opener: 1.5.2
     dev: true
 
-  /rollup-plugin-typescript2/0.32.1_nm5mlcuxlwr6samvke7b2fz27i:
-    resolution: {integrity: sha512-RanO8bp1WbeMv0bVlgcbsFNCn+Y3rX7wF97SQLDxf0fMLsg0B/QFF005t4AsGUcDgF3aKJHoqt4JF2xVaABeKw==}
+  /rollup-plugin-typescript2/0.33.0_nm5mlcuxlwr6samvke7b2fz27i:
+    resolution: {integrity: sha512-7ZXoZeX93kNb4/ICzOi2AlperVV6cAsNz8THqrbz+KNvpn47P2F/nFdK/BGhkoOsOwuYDuY57vccdZZrcd8/dA==}
     peerDependencies:
       rollup: '>=1.26.3'
       typescript: '>=2.4.0'
@@ -2193,7 +2193,6 @@ packages:
       '@rollup/pluginutils': 4.2.1
       find-cache-dir: 3.3.2
       fs-extra: 10.1.0
-      resolve: 1.22.1
       rollup: 2.78.0
       tslib: 2.4.0
       typescript: 4.7.4
